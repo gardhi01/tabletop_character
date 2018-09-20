@@ -1,0 +1,1 @@
+The goal of this application will be to track characters in the fifth edition of the tabletop RPG, Dungeons and Dragons. Users will be able to monitor their characters' stats, spells, and inventories. 
